@@ -15,10 +15,6 @@ Z_Testing_Simulations.zip
 *.gch
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -30,7 +26,3 @@ Z_Testing_Simulations.zip
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
